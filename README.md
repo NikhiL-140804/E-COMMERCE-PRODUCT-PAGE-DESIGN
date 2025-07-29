@@ -27,7 +27,3 @@ This task gave me valuable insights into the fundamentals of UI/UX design in ret
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/54dd0f20-d047-4d45-aa06-2878336710fc" />
 
 LINK: https://www.figma.com/design/6fF5OqK8kkxKVFIzwwPbyd/Task-3?node-id=0-1&t=BNoEub0XpRVFgPvu-1
-
-
-
-Task 3 link: https://www.figma.com/design/6fF5OqK8kkxKVFIzwwPbyd/Task-3?t=ZHHeQ6fwktoKNVCi-1
